@@ -1,0 +1,9 @@
+.site_header{
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+}
+.header_topics{
+    display: flex;
+    align-content: space-between;
+}
